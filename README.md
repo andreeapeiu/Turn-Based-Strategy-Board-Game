@@ -34,7 +34,7 @@ opponent's hero.
 
 ## Running the Game
 Clone the repository: [GitHub Link](#)  
-(**https://github.com/andreeapeiu/tema1_poo.git**).  
+(**https://github.com/andreeapeiu/Turn-Based-Strategy-Board-Game**).  
 Execute `Main.java` to start the game simulation.
 
 ## Game Mechanics
